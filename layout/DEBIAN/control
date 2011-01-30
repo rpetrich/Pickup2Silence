@@ -1,9 +1,9 @@
-Package: com.yourcompany.click2dial
-Name: click2dial
+Package: com.egjoka.pickup2silence
+Name: Pickup2Slience
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: 
+Description: Pickup phone to silence ringtone
 Maintainer: egjoka
 Author: egjoka
 Section: Tweaks
